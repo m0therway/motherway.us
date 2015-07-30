@@ -1,3 +1,3 @@
 motherway.us 
- - homepage
+ - motherway.us homepage
  - sitemap
